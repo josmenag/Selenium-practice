@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68fc51fd-3666-4c1d-bb5a-35c09569c0cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xx2dhVv4vERxP5O6Qz9QEeQVTo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstTest.firstTestMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dice" />
+      <option name="MAIN_CLASS_NAME" value="com.dice.FirstTest" />
+      <option name="METHOD_NAME" value="firstTestMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTest.firstTestMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68fc51fd-3666-4c1d-bb5a-35c09569c0cb" name="Default Changelist" comment="" />
+      <created>1581973513370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581973513370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom" timestamp="1581975237749">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/1920.23.1280.777/-1920.118.1920.1057/0.23.1920.1009@0.23.1920.1009" timestamp="1581975237749" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center" timestamp="1581975237747">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.center/1920.23.1280.777/-1920.118.1920.1057/0.23.1920.1009@0.23.1920.1009" timestamp="1581975237747" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left" timestamp="1581975237746">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.left/1920.23.1280.777/-1920.118.1920.1057/0.23.1920.1009@0.23.1920.1009" timestamp="1581975237746" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right" timestamp="1581975237748">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.right/1920.23.1280.777/-1920.118.1920.1057/0.23.1920.1009@0.23.1920.1009" timestamp="1581975237748" />
+    <state x="469" y="166" key="SettingsEditor" timestamp="1581974724219">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="469" y="166" key="SettingsEditor/1920.23.1280.777/-1920.118.1920.1057/0.23.1920.1009@0.23.1920.1009" timestamp="1581974724219" />
+  </component>
+</project>
